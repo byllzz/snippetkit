@@ -12,7 +12,7 @@ SnippetKit is a lightweight web tool for producing polished code screenshots and
     <img src="https://img.shields.io/badge/Author-Bilal%20Malik-9B72FF.svg?style=flat" />
   </a>
 <a href="https://github.com/byllzz/snippetkit/releases">
-  <img src="https://img.shields.io/badge/Latest%20Release-16%30Dec%202025-9B72FF.svg" alt="Latest Release Badge" />
+  <img src="https://img.shields.io/badge/Latest%20Release-30%20Dec%202025-9B72FF.svg" alt="Latest Release Badge" />
 </a>
 </p>
 
